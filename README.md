@@ -16,7 +16,7 @@ This bot captures and processes DTMF tones during live calls, allowing you to au
 
 ## Demo
 
-Check out the live demo of the application: <a href="https://t.me/witchvoip_bot" target="_blank">Check out the live demo of the application: DTMF Capture Bot Demo</a>
+Check out the live demo of the application: <a href="https://t.me/witchvoip_bot" target="_blank">DTMF Capture Bot Demo</a>
 
 
 ## Installation
