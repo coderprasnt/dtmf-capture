@@ -19,7 +19,7 @@ This bot captures and processes DTMF tones during live calls, allowing you to au
 Check out the live demo of the application:
 [DTMF Capture Bot Demo]
 <a href="https://t.me/witchvoip_bot" target="_blank">
-  <img src="https://imgs.search.brave.com/icnnaEaG2oKU1tef6IbBnC3bDLFvRwMgZWCurV3uSk0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1Lzg2LzEyLzE5/LzM2MF9GXzU4NjEy/MTk3Nl9nVXBEeDdi/WjBMZ3E2YkJqUTMz/ZzZDT3V1UW5xTVd6/MS5qcGc" width="20" height="20" />
+  <img src="https://imgs.search.brave.com/icnnaEaG2oKU1tef6IbBnC3bDLFvRwMgZWCurV3uSk0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzA1Lzg2LzEyLzE5/LzM2MF9GXzU4NjEy/MTk3Nl9nVXBEeDdi/WjBMZ3E2YkJqUTMz/ZzZDT3V1UW5xTVd6/MS5qcGc" width="50" height="50" />
 </a>
 
 
@@ -72,9 +72,10 @@ The bot should now be running and ready to capture DTMF tones.
 
 ## Contact
 
-For purchasing and inquiries, contact me on.
+For purchasing and inquiries, contact me on--> 
+
 <a href="https://t.me/WitchShopHub" target="_blank">
-  <img src="https://imgs.search.brave.com/w4Usb1Piis4lc_5ZFqBeIirJ524_Bx9rNNFlOa40esE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXhj/ZG4uaWNvbnM4LmNv/bS9wYWNrcy9wcmV2/aWV3LWljb24vbWVz/c2FnaW5nLnN2Zw" width="20" height="20" />
+  <img src="https://imgs.search.brave.com/w4Usb1Piis4lc_5ZFqBeIirJ524_Bx9rNNFlOa40esE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXhj/ZG4uaWNvbnM4LmNv/bS9wYWNrcy9wcmV2/aWV3LWljb24vbWVz/c2FnaW5nLnN2Zw" width="50" height="50" />
 </a>
 
 ## License
