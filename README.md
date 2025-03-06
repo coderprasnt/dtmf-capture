@@ -73,7 +73,9 @@ The bot should now be running and ready to capture DTMF tones.
 
 ## Contact
 
-For purchasing and inquiries, contact me on--> 
+For purchasing and inquiries.
+
+Contact me on--> 
 
 <a href="https://t.me/WitchShopHub" target="_blank">
   <img src="https://imgs.search.brave.com/w4Usb1Piis4lc_5ZFqBeIirJ524_Bx9rNNFlOa40esE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tYXhj/ZG4uaWNvbnM4LmNv/bS9wYWNrcy9wcmV2/aWV3LWljb24vbWVz/c2FnaW5nLnN2Zw" width="50" height="50" />
