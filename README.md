@@ -16,10 +16,11 @@ This bot captures and processes DTMF tones during live calls, allowing you to au
 
 ## Demo
 
-Check out the live demo of the application: [![DTMF Capture Bot Demo](https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg)](https://t.me/witchvoip_bot)
+Check out the live demo of the application: [![DTMF Capture Bot Demo]
+<a href="https://t.me/witchvoip_bot" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" />
+</a>
 
-<!-- HTML to resize image -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="20" height="20" />
 
 
 ## Installation
