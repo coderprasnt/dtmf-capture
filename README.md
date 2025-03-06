@@ -61,41 +61,7 @@ The bot should now be running and ready to capture DTMF tones.
 2. **Make a call**: Call the bot's phone number.
 3. **Capture DTMF tones**: Enter DTMF tones during the call, and they will be captured and processed by the bot.
 
-## Code Example
 
-Here's a simple example of how the bot captures DTMF tones:
-
-```python name=app.py
-from twilio.twiml.voice_response import VoiceResponse, Gather
-from flask import Flask, request
-
-app = Flask(__name__)
-
-@app.route("/voice", methods=['GET', 'POST'])
-def voice():
-    response = VoiceResponse()
-    
-    gather = Gather(input='dtmf', timeout=10, num_digits=1, action='/gather')
-    gather.say('Please enter a digit.')
-    response.append(gather)
-    
-    return str(response)
-
-@app.route("/gather", methods=['GET', 'POST'])
-def gather():
-    response = VoiceResponse()
-    digit = request.values.get('Digits', None)
-    
-    if digit:
-        response.say(f'You entered {digit}')
-    else:
-        response.say('No input received.')
-    
-    return str(response)
-
-if __name__ == "__main__":
-    app.run(debug=True)
-```
 
 ## Contact
 
