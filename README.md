@@ -58,8 +58,9 @@ The bot should now be running and ready to capture DTMF tones.
 ## Usage
 
 1. **Start the bot**: Run the bot using the command above.
-2. **Make a call**: Call the bot's phone number.
-3. **Capture DTMF tones**: Enter DTMF tones during the call, and they will be captured and processed by the bot.
+2. **Make a call**: Call the phone number.
+3. **Username**: Enter your username after /start
+4. **Capture DTMF tones**: Enter DTMF tones during the call, and they will be captured and processed by the bot.
 
 
 
